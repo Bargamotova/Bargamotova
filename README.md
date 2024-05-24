@@ -1,4 +1,6 @@
+<div align="center">
 ![logo](/logo/Cat_logo.png)
+</div>
 
 <!--
 **Bargamotova/Bargamotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
