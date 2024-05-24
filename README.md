@@ -1,4 +1,4 @@
-##_Anna_ _Bargamotova_
+<h2 text-style='italic'>_Anna_ _Bargamotova_</h2>
 
 <div align="center">
 <!-- ![logo](/logo/Cat_logo.png) -->
