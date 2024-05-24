@@ -1,8 +1,11 @@
 **`Anna Bargamotova`**
 
 _Creative Frontend Developer_ 
+
 _UI/UX Designer_ 
-_I love what I do 💙
+
+_I love what I do 💙_
+
  <div align="center">
 <!-- ![logo](/logo/Cat_logo.png) -->
    <img src="/logo/Cat_logo.png" width="300" height="300"/> 
