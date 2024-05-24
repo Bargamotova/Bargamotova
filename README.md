@@ -6,7 +6,7 @@
 </div>
 
 
-### 🧰Technologies that I use 
+### 🧰 Technologies that I use 
 
 
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/html.svg"/>
