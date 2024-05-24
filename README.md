@@ -5,7 +5,8 @@
   <img src="/logo/Cat_logo.png" width="300" height="300"/>
 </div>
 ---
-###   🧰 Technologies that I use 
+
+###🧰Technologies that I use 
 
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/javascript.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/react.svg"/>
