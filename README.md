@@ -20,7 +20,7 @@
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/express.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/mongoose.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/mongo.svg"/>
-  <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/supabase.svg"/><br/>
+  <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/supabase.svg"/>
   
 
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/css.svg"/>
