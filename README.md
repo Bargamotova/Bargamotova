@@ -10,7 +10,7 @@ _Creative web developer & Citizen of The Earth_
 ##
 
 
-> <img src="/icons/CatTube_settings_right.svg" width="30" />  Technologies that I use 
+> <img src="/icons/CatTube_settings_right.svg" width="50" />  Technologies that I use 
 
 ##
 
