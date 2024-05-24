@@ -1,5 +1,6 @@
 <div align="center">
-![logo](/logo/Cat_logo.png)
+<!-- ![logo](/logo/Cat_logo.png) -->
+  <img src="/logo/Cat_logo.png"/>
 </div>
 
 <!--
