@@ -4,7 +4,13 @@
 <!-- ![logo](/logo/Cat_logo.png) -->
   <img src="/logo/Cat_logo.png" width="300" height="300"/>
 </div>
+### 🧰 Technologies that I use 
 
+<img align="left" alt="sign" width="30" style=""padding-right:10px" src="/assets/figma.svg"/>
+<img align="left" alt="sign" width="30" style=""padding-right:10px" src="/assets/figma.svg"/>
+<img align="left" alt="sign" width="30" style=""padding-right:10px" src="/assets/figma.svg"/>
+<img align="left" alt="sign" width="30" style=""padding-right:10px" src="/assets/figma.svg"/>
+<img align="left" alt="sign" width="30" style=""padding-right:10px" src="/assets/figma.svg"/>
 <!--
 **Bargamotova/Bargamotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
