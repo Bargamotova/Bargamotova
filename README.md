@@ -8,7 +8,7 @@
 
 ### 🧰Technologies that I use 
 
-**<p align="left">`For Front`</p>**
+**<p align="left">`Front`</p>**
 <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/html.svg"/>
 <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/javascript.svg"/>
 <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/react.svg"/>
@@ -18,7 +18,7 @@
 
   
 
- **`For Back`**
+**<p align="left">`Back`</p>**
 <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/nodejs.svg"/>
 <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/express.svg"/>
 <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/mongoose.svg"/>
@@ -27,14 +27,14 @@
 
   
   
-**`For Styling`**
+**<p align="left">`Style`</p>**
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/css.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/sass.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/materialui.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/styled.svg"/>
   
  
- **`For Prototypes`**
+**<p align="left">`Prototype`</p>**
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/photoshop.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/adobe.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/sketch.svg"/>
