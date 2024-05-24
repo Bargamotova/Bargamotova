@@ -1,6 +1,6 @@
 **`Anna Bargamotova`**
 
-The creative Frontend Web Developer.
+_ The creative Frontend Web Developer. _
 <div align="center">
 <!-- ![logo](/logo/Cat_logo.png) -->
   <img src="/logo/Cat_logo.png" width="300" height="300"/>
