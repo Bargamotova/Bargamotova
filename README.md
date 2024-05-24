@@ -7,6 +7,7 @@
 
 
 ### 🧰Technologies that I use 
+
 **<p align="left" width="100%">`Front`</p>**
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/html.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/javascript.svg"/>
