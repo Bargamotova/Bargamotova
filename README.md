@@ -11,7 +11,7 @@ _Creative web developer & Citizen of The Earth_
 
 
 > <img src="/icons/CatTube_settings_right.svg" width="50" /> 
->##   Technologies that I use
+>##  Technologies that I use
 ##
 
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/html.svg" title="html" style="background-color:purpur' "/>
