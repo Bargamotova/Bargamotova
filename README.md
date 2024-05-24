@@ -9,7 +9,8 @@ _The creative Frontend Web Developer._
 
 >### 🧰 Technologies that I use 
 
-```bash
+**
+
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/html.svg" title="html"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/javascript.svg" title="JavaScript"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/react.svg" title="React"/>
@@ -33,7 +34,7 @@ _The creative Frontend Web Developer._
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/photoshop.svg" title="Photoshop"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/adobe.svg" title="Illustrator"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/sketch.svg" title="Sketch"/>
-  <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/figma.svg" title="Figma"/>```
+  <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/figma.svg" title="Figma"/>**
 <br/>
 
 <!--
