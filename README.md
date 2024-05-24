@@ -1,6 +1,6 @@
 **`Anna Bargamotova`**
 
- ```The creative Frontend Web Developer.```
+_The creative Frontend Web Developer._
 <div align="center">
 <!-- ![logo](/logo/Cat_logo.png) -->
   <img src="/logo/Cat_logo.png" width="300" height="300"/>
@@ -9,7 +9,7 @@
 
 >### 🧰 Technologies that I use 
 
-
+```bash
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/html.svg" title="html"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/javascript.svg" title="JavaScript"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/react.svg" title="React"/>
@@ -33,8 +33,9 @@
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/photoshop.svg" title="Photoshop"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/adobe.svg" title="Illustrator"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/sketch.svg" title="Sketch"/>
-  <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/figma.svg" title="Figma"/>
+  <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/figma.svg" title="Figma"/>```
 <br/>
+
 <!--
 **Bargamotova/Bargamotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
