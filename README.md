@@ -7,11 +7,11 @@ _Creative web developer & Citizen of The Earth_
 </div>
 
 ##
-##
+
 
 >### 🧰 Technologies that I use 
 
-
+##
 
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/html.svg" title="html" style="background-color:purpur' "/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/javascript.svg" title="JavaScript"/>
