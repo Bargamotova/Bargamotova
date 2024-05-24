@@ -9,7 +9,7 @@ _Creative web developer & Citizen of The Earth_
 
 ##
 > <img src="/icons/CatTube_settings_right.svg" width="50" /> **`Technologies that I use`**
-##
+
 
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/html.svg" title="html" style="background-color:purpur' "/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/javascript.svg" title="JavaScript"/>
@@ -36,7 +36,7 @@ _Creative web developer & Citizen of The Earth_
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/sketch.svg" title="Sketch"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/figma.svg" title="Figma"/>
 <br/>
-
+##
 <!--
 **Bargamotova/Bargamotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
