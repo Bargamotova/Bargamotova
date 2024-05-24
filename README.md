@@ -14,30 +14,30 @@
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/javascript.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/react.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/redux.svg"/>
-  <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/react-query.svg"/>
+  <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/react-query.svg"/><br/>
 
 
   
 
-- **<p align="left" width="100%">`Back`</p>**
+- **<p align="left" width="100%">`Back`</p>**<br/>
 
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/nodejs.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/express.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/mongoose.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/mongo.svg"/>
-  <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/supabase.svg"/>
+  <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/supabase.svg"/><br/>
 
   
   
-**<p align="left" width="100%">`Style`</p>**
+**<p align="left" width="100%">`Style`</p>**<br/>
 
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/css.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/sass.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/materialui.svg"/>
-  <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/styled.svg"/>
+  <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/styled.svg"/><br/>
   
  
-**<p align="left" width="100%">`Prototype`</p>**
+**<p align="left" width="100%">`Prototype`</p>**<br/>
 
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/photoshop.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/adobe.svg"/>
