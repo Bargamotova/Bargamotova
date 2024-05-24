@@ -1,11 +1,10 @@
 **`Anna Bargamotova`**
 
-_Creative web developer & Citizen of The Earth_ Creative web developer & Citizen of The EarthCreative web developer & Citizen of The EarthCreative web developer & Citizen of The EarthCreative web developer & Citizen of The Earth
- <img src="/logo/Cat_logo.png" width="300" height="300"/>
-<!-- <div align="center">
+_Creative web developer & Citizen of The Earth_ 
+ <div align="center">
 <!-- ![logo](/logo/Cat_logo.png) -->
-<!--  <img src="/logo/Cat_logo.png" width="300" height="300"/> -->
-<!-- </div> -->
+   <img src="/logo/Cat_logo.png" width="300" height="300"/> 
+ </div>
 
 
 ##
