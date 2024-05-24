@@ -14,6 +14,7 @@
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/redux.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/react-query.svg"/>
   
+  
 - <p>For Back</p> 
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/nodejs.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/express.svg"/>
@@ -21,11 +22,13 @@
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/mongo.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/supabase.svg"/>
   
+  
 - <p>For Styling</p>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/css.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/sass.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/materialui.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/styled.svg"/>
+  
  
 - <p>For Prototypes</p> 
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/photoshop.svg"/>
