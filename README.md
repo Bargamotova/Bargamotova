@@ -1,6 +1,6 @@
 **`Anna Bargamotova`**
 
-_Creative web developer & Citizen of The Earth_ 
+_Creative Frontend Developer & Citizen of The Earth_ _UI/UX Designer_ 
  <div align="center">
 <!-- ![logo](/logo/Cat_logo.png) -->
    <img src="/logo/Cat_logo.png" width="300" height="300"/> 
