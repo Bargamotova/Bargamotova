@@ -11,7 +11,7 @@ _The creative Frontend Web Developer._
 
 
 
-  <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/html.svg" title="html" style="backgroundColor:purpur' "/>
+  <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/html.svg" title="html" style="background-color:purpur' "/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/javascript.svg" title="JavaScript"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/react.svg" title="React"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/redux.svg" title="Redux"/>
