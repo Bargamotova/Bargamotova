@@ -14,7 +14,7 @@
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/react.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/redux.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/react-query.svg"/><br/>
-- **<p align="left" width="100%">`Back`</p>**<br/>
+- **<p align="right" width="100%">`Back`</p>**<br/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/nodejs.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/express.svg"/>
   <img align="left" alt="sign" width="30" style="padding-right:10px" src="/icons/mongoose.svg"/>
