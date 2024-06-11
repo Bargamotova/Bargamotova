@@ -1,6 +1,6 @@
 
 
-**_Creative Frontend Developer_ **
+**_`Creative Frontend Developer`_ **
 
 _UI/UX Designer_ 
 
