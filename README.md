@@ -15,7 +15,7 @@ _`UI/UX Designer`_
 > <img src="/icons/CatTube_settings_right.svg" width="50" /> **`Technologies that I use`**
 
 
-  <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/html.svg" title="html" style="background-color:purpur' "/>
+  <img align="left" alt="sign" width="24" style="padding-right:10px, margin-left:5px" src="/icons/html.svg" title="html" style="background-color:purpur' "/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/javascript.svg" title="JavaScript"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/react.svg" title="React"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/redux.svg" title="Redux"/>
