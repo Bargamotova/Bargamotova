@@ -1,9 +1,9 @@
 
 
-_`Creative Frontend Developer`_
+_`Creative Frontend Developer`_  <img src="/icons/CatTube_music.svg" width="80" alt="cat music"/>
 
 _`UI/UX Designer`_ 
-<img src="/icons/CatTube_music.svg" width="80" alt="cat music"/>
+
 > _I love what I do 💙_ 
 
  <div align="center">
