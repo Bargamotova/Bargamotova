@@ -1,6 +1,6 @@
+ <img src="/icons/CatTube_music.svg" width="80" alt="cat music" />
 
-
-_`Creative Frontend Developer`_  <img src="/icons/CatTube_music.svg" width="80" alt="cat music" style="position: absolur; left: 5vw; top: 5vh;"/>
+_`Creative Frontend Developer`_ 
 
 _`UI/UX Designer`_ 
 
