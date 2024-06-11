@@ -1,6 +1,6 @@
-**`Anna Bargamotova`**
 
-_Creative Frontend Developer_ 
+
+**_Creative Frontend Developer_ **
 
 _UI/UX Designer_ 
 
