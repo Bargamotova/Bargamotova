@@ -2,7 +2,7 @@
 
 _`Creative Frontend Developer`_
 
-_UI/UX Designer_ 
+_`UI/UX Designer`_ 
 
 _I love what I do 💙_
 
