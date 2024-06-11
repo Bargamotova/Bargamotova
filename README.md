@@ -1,4 +1,3 @@
- <img src="/icons/CatTube_music.svg" width="80" alt="cat music" />
 
 _`Creative Frontend Developer`_ 
 
