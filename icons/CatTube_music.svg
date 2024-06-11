@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 180 180" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="23.3479" id="Filter" width="24.3199" x="82.7326" y="64.2388">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="2.90698"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="23.3479" id="Filter_2" width="24.3199" x="46.64" y="60.5186">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="2.90698"/>
+</filter>
+</defs>
+<g id="Слой-6" vectornator:layerName="Слой 6">
+<path d="M53.6401 51.4537C54.1865 45.2936 57.9988 40.5987 62.1551 40.9674C66.3113 41.3361 69.2377 46.6288 68.6913 52.7889C68.1448 58.949 64.3325 63.6439 60.1762 63.2752C56.02 62.9065 53.0936 57.6138 53.6401 51.4537Z" fill="#ba2b0c" fill-rule="nonzero" opacity="1" stroke="#303030" stroke-linecap="butt" stroke-linejoin="round" stroke-width="3.92407" vectornator:layerName="Ова 1 л 1"/>
+</g>
+<g id="Слой-2" vectornator:layerName="Слой 2">
+<path d="M139.381 106.254C139.381 106.254 177.812 93.0731 159.574 31.7846C151.65 13.1936 141.352 18.8993 146.202 28.4225C162.644 59.4997 147.552 87.1154 139.381 97.6671C139.381 97.6671 133.425 58.8523 107.789 52.0982L102.999 28.6826L82.2405 51.6665C82.2328 51.675 82.2213 51.6791 82.2099 51.6773L79.1868 51.2116C79.1744 51.2097 79.1587 51.1996 79.1518 51.189L76.5266 30.7636L58.0762 52.9679C58.0762 52.9679 44.8323 73.7937 46.0168 88.6936C36.0339 87.0753 27.9489 100.947 44.9439 95.4122C48.943 97.3905 53.4469 104.559 51.0046 104.559C39.1116 99.6751 26.9375 104.559 55.6645 116.129C70.6092 128.638 58.473 153.785 54.936 158.607C51.3991 163.429 68.6452 158.453 70.441 148.002C70.441 148.002 91.6851 154.007 107.789 145.188C107.789 145.188 113.401 150.44 107.789 158.49C107.789 162.31 115.173 159.461 124.548 148.311C132.261 136.907 141.402 115.165 139.381 106.254Z" fill="#e8e8e8" fill-rule="nonzero" opacity="1" stroke="#1d1d1d" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Кривая 1"/>
+</g>
+<g id="Слой-1" vectornator:layerName="Слой 1">
+<path d="M90 75.9127C90 73.4791 92.1904 71.5062 94.8925 71.5062C97.5946 71.5062 99.785 73.4791 99.785 75.9127C99.785 78.3463 97.5946 80.3192 94.8925 80.3192C92.1904 80.3192 90 78.3463 90 75.9127Z" fill="#ef775c" fill-rule="nonzero" filter="url(#Filter)" opacity="0.341085" stroke="none" vectornator:blur="5.81395" vectornator:layerName="Овал 2"/>
+<path d="M53.9074 72.1925C53.9074 69.7589 56.0978 67.786 58.7999 67.786C61.502 67.786 63.6924 69.7589 63.6924 72.1925C63.6924 74.6261 61.502 76.599 58.7999 76.599C56.0978 76.599 53.9074 74.6261 53.9074 72.1925Z" fill="#ef775c" fill-rule="nonzero" filter="url(#Filter_2)" opacity="0.341085" stroke="none" vectornator:blur="5.81395" vectornator:layerName="Овал 1"/>
+</g>
+<g id="Слой-3" vectornator:layerName="Слой 3">
+<path d="M113.485 139.641C113.485 139.641 125.891 83.8974 126.092 80.6714C126.294 77.4454 55.3685 97.4304 53.9333 97.8462C52.4981 98.2621 111.082 138.072 113.485 139.641Z" fill="#272727" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Кривая 1"/>
+</g>
+<g id="Слой-4-скопировать" vectornator:layerName="Слой 4 скопировать">
+<path d="M87.3809 62.786L74.9009 62.786C74.9009 62.786 77.6946 69.276 81.1409 69.276C84.5872 69.276 87.3809 62.786 87.3809 62.786Z" fill="#f2f2f2" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Овал 2"/>
+<path d="M81.8087 63.2955L75.2249 63.2955C75.2249 63.2955 76.6988 66.5481 78.5168 66.5481C80.3349 66.5481 81.8087 63.2955 81.8087 63.2955Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Овал 1"/>
+</g>
+<g id="Слой-4-скопировать_2" vectornator:layerName="Слой 4 скопировать">
+<path d="M73.2924 62.786L63.6924 62.786C63.6924 62.786 65.8414 67.786 68.4924 67.786C71.1434 67.786 73.2924 62.786 73.2924 62.786Z" fill="#f2f2f2" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Овал 2"/>
+<path d="M68.7569 62.786L63.6924 62.786C63.6924 62.786 64.8261 65.2919 66.2246 65.2919C67.6232 65.2919 68.7569 62.786 68.7569 62.786Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Овал 1"/>
+</g>
+<g id="Слой-5" vectornator:layerName="Слой 5">
+<path d="M74.9009 69.4283C74.9009 68.6717 73.5337 67.786 72.8217 67.786C72.1097 67.786 70.701 68.5083 70.701 69.265C70.701 70.0217 71.151 69.4122 72.6138 71.5062C73.9862 69.4122 74.9009 70.185 74.9009 69.4283Z" fill="#272727" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Овал 1"/>
+<path d="M80.8169 74.2854C80.8169 74.2854 80.5277 75.4 79.4592 75.9046C77.8463 76.6663 74.9945 76.5543 72.9453 73.2213C72.9453 73.2213 69.582 77.399 65.9654 74.7048C65.5152 74.3694 65.2435 73.7288 64.785 73.1662" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Кривая 3"/>
+</g>
+<g id="Слой-4" vectornator:layerName="Слой 4">
+<path d="M93.785 53.8866C93.785 46.7403 98.6829 40.9471 104.725 40.9471C110.767 40.9471 115.665 46.7403 115.665 53.8866C115.665 61.0329 110.767 66.8262 104.725 66.8262C98.6829 66.8262 93.785 61.0329 93.785 53.8866Z" fill="#ba2b0c" fill-rule="nonzero" opacity="1" stroke="#303030" stroke-linecap="butt" stroke-linejoin="round" stroke-width="3.92407" vectornator:layerName="Овал 2"/>
+<path d="M104.725 53.3366C104.421 53.3366 104.175 53.5829 104.175 53.8866C104.175 54.1904 104.421 54.4366 104.725 54.4366C105.029 54.4366 105.275 54.1904 105.275 53.8866C105.275 53.5829 105.029 53.3366 104.725 53.3366ZM102.575 55.1366C102.375 54.7866 102.225 54.3366 102.225 53.8866C102.225 52.4866 103.325 51.3866 104.725 51.3866C105.175 51.3866 105.625 51.5366 105.975 51.7366L107.725 48.6866C106.825 48.1866 105.825 47.8866 104.725 47.8866C101.425 47.8866 98.7248 50.5866 98.7248 53.8866C98.7248 54.9866 99.0248 56.0366 99.5248 56.8866L102.575 55.1366ZM109.925 50.8866L106.875 52.6366C107.075 52.9866 107.225 53.4366 107.225 53.8866C107.225 55.2866 106.125 56.3866 104.725 56.3866C104.275 56.3866 103.825 56.2366 103.475 56.0366L101.725 59.0866C102.625 59.5866 103.625 59.8866 104.725 59.8866C108.025 59.8866 110.725 57.1866 110.725 53.8866C110.725 52.7866 110.425 51.7366 109.925 50.8866Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M104.725 48.6366C107.625 48.6366 109.975 50.9866 109.975 53.8866C109.975 56.7866 107.625 59.1366 104.725 59.1366C101.825 59.1366 99.4748 56.7866 99.4748 53.8866C99.4748 50.9866 101.825 48.6366 104.725 48.6366M104.725 56.6366C106.225 56.6366 107.475 55.3866 107.475 53.8866C107.475 52.3866 106.225 51.1366 104.725 51.1366C103.225 51.1366 101.975 52.3866 101.975 53.8866C101.975 55.3866 103.225 56.6366 104.725 56.6366M104.725 47.8866C101.425 47.8866 98.7248 50.5866 98.7248 53.8866C98.7248 57.1866 101.425 59.8866 104.725 59.8866C108.025 59.8866 110.725 57.1866 110.725 53.8866C110.725 50.5866 108.025 47.8866 104.725 47.8866L104.725 47.8866ZM104.725 55.8866C103.625 55.8866 102.725 54.9866 102.725 53.8866C102.725 52.7866 103.625 51.8866 104.725 51.8866C105.825 51.8866 106.725 52.7866 106.725 53.8866C106.725 54.9866 105.825 55.8866 104.725 55.8866L104.725 55.8866Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path 1"/>
+<path d="M104.725 40.9471C104.725 40.9471 97.4929 25.281 86.3425 23.9693C79.9844 23.2214 73.0699 23.9608 63.6924 40.9471" fill="none" opacity="1" stroke="#303030" stroke-linecap="butt" stroke-linejoin="round" stroke-width="3.92407" vectornator:layerName="Кривая 1"/>
+<path d="M143.581 14.2614C138.224 12.9842 134.958 22.873 140.436 25.0685" fill="none" opacity="1" stroke="#303030" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.772978" vectornator:layerName="Линия 2"/>
+<path d="M141.046 9.15645C132.513 8.04388 125.973 22.2776 134.585 24.6587" fill="none" opacity="1" stroke="#303030" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.772978" vectornator:layerName="Линия 1"/>
+</g>
+</svg>
