@@ -3,8 +3,8 @@
 _`Creative Frontend Developer`_
 
 _`UI/UX Designer`_ 
-
-> _I love what I do 💙_ <img src="/icons/CatTube_music.svg" width="80" alt="cat music"/>
+<img src="/icons/CatTube_music.svg" width="80" alt="cat music"/>
+> _I love what I do 💙_ 
 
  <div align="center">
 <!-- ![logo](/logo/Cat_logo.png) -->
