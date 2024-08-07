@@ -20,7 +20,7 @@ _`UI/UX Designer`_
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/react.svg" title="React"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/redux.svg" title="Redux"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/react-query.svg" title="React-Query"/> 
-  <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/react-hook.svg" title="React-Query"/> 
+  <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/react-hook.svg" title="React-Hook"/> 
 
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/nodejs.svg" title="NodeJs"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/express.svg" title="Express Js"/>
