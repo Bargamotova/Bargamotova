@@ -9,7 +9,7 @@ _`UI/UX Designer`_
    <img src="/logo/Cat_logo.png" width="300" height="300"/> 
  </div> -->
  <div align="center">
-   <img src="/logoSign.png"/> 
+   <img src="/sign.png"/> 
  </div>
  
 
