@@ -5,16 +5,24 @@ _`UI/UX Designer`_
 
 > _I love what I do 💙_ 
 
- <div align="center">
-<!-- ![logo](/logo/Cat_logo.png) -->
+<!-- <div align="center">
    <img src="/logo/Cat_logo.png" width="300" height="300"/> 
+ </div> -->
+ <div align="center">
+   <img src="/logo/logoSign.png"/> 
  </div>
+ 
 
 
 ##
 > <img src="/icons/CatTube_settings_right.svg" width="50" /> **`Technologies that I use`**
 
 
+<div align="center">
+   <img src="/logo/icons.png"/> 
+ </div>
+
+<!--  
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/html.svg" title="html" style="background-color:purpur' "/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/javascript.svg" title="JavaScript"/>
   <img align="left" alt="sign" width="24" style="padding-right:10px" src="/icons/react.svg" title="React"/>
@@ -42,6 +50,7 @@ _`UI/UX Designer`_
 <br/>
 
 ##
+-->
 <!--
 **Bargamotova/Bargamotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
