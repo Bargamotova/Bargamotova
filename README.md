@@ -19,7 +19,7 @@ _`UI/UX Designer`_
 
 
 <div align="center">
-   <img src="/logos.png"/> 
+   <img src="/technologes.png"/> 
  </div>
 
 <!--  
