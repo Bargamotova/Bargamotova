@@ -9,7 +9,7 @@ _`UI/UX Designer`_
    <img src="/logo/Cat_logo.png" width="300" height="300"/> 
  </div> -->
  <div align="center">
-   <img src="/logo/logoSign.png"/> 
+   <img src="/logoSign.png"/> 
  </div>
  
 
@@ -19,7 +19,7 @@ _`UI/UX Designer`_
 
 
 <div align="center">
-   <img src="/logo/icons.png"/> 
+   <img src="/icons.png"/> 
  </div>
 
 <!--  
