@@ -18,7 +18,7 @@ _`UI/UX Designer`_
 > <img src="/icons/CatTube_settings_right.svg" width="50" /> **`Technologies that I use`**
 
 
-<div align="center">
+<div align="center" width="100%">
    <img src="/icons.png"/> 
  </div>
 
